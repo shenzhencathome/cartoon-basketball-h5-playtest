@@ -1,0 +1,6 @@
+2026-10-29T02:12:50+08:00
+main_scene.web=squad_journey.tscn
+hub=streetball_hub_shell+TabDock
+fix=hide_legacy_chrome_every_frame
+slim_pck_bytes=26942740
+slim_pck_sha256=0cf8b708479f1beb5d17f9bf66edafd0eaf6ea676156f37defcb6eb42061e843
