@@ -1,6 +1,7 @@
-2026-10-29T02:22:22+08:00
+2026-10-29T02:27:48+08:00
 main_scene.web=squad_journey.tscn
 hub=streetball_hub_shell+TabDock
 fix=whitelist_fix=equipment_grants+item_reward+json
-slim_pck_bytes=28164356
-slim_pck_sha256=82fbc1693e5008f691bd88c8960e0448c19f5aa6d0ff695f40b9f7bdafa479c3
+slim_pck_bytes=28126996
+slim_pck_sha256=3802be22313b55b889cda7e43129105b86be9bd1db054b2c1e36ea85c42cfdd9
+commit=56fd6e0
