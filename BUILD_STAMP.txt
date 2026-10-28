@@ -1,6 +1,6 @@
-2026-10-29T02:12:50+08:00
+2026-10-29T02:22:22+08:00
 main_scene.web=squad_journey.tscn
 hub=streetball_hub_shell+TabDock
-fix=hide_legacy_chrome_every_frame
-slim_pck_bytes=26942740
-slim_pck_sha256=0cf8b708479f1beb5d17f9bf66edafd0eaf6ea676156f37defcb6eb42061e843
+fix=whitelist_fix=equipment_grants+item_reward+json
+slim_pck_bytes=28164356
+slim_pck_sha256=82fbc1693e5008f691bd88c8960e0448c19f5aa6d0ff695f40b9f7bdafa479c3
